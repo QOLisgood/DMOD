@@ -1,2 +1,2 @@
 # DMOD
-dupe mod 
+package mutiplicator
